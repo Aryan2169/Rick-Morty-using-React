@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-# Rick-Morty-using-React
-=======
-# React + Vite
+ScreenShots:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Home-
+![Home](https://github.com/Aryan2169/Rick-MortyWiki-using-React/assets/124697341/a50e2802-60ee-46fd-9495-0294ba03364a)
 
-Currently, two official plugins are available:
+Filters
+![Filters](https://github.com/Aryan2169/Rick-MortyWiki-using-React/assets/124697341/55a2995d-3a60-4a4d-936f-0dc50d94761e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 2c168e4 (Initial commit)
+Pagination
+![Pagination](https://github.com/Aryan2169/Rick-MortyWiki-using-React/assets/124697341/80a2ae33-5aeb-4110-bfab-5850ccad1816)
+
