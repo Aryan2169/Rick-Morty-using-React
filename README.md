@@ -1,3 +1,5 @@
+Live Demo - https://rickand-morty-wiki-using-react.vercel.app/
+
 This is a Wiki for Rick&Morty show. This projects 
 allows users to search various characters and see different information about them like location, status and 
 their names.It also has Accordion feature to filter characters. There is also a Pagination option to navigate between different pages.
